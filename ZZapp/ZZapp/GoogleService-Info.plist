@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>150427181880-pi1264qk0ejb1e681dqntmdtaht0fm55.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.150427181880-pi1264qk0ejb1e681dqntmdtaht0fm55</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVSlAnCo8VPt7ZFI6MjST26JqZ3qCD7mQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>150427181880</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.abdullah.ZZapp</string>
+	<key>PROJECT_ID</key>
+	<string>zzapp-aa15a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zzapp-aa15a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:150427181880:ios:db772b0001c28c6f8617cd</string>
+</dict>
+</plist>
